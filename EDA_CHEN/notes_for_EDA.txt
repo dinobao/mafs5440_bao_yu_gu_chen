@@ -1,0 +1,1 @@
+Data used in EDA is application_train.csv, we examine this dataset and give explanatory results.
